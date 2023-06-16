@@ -1,7 +1,8 @@
 <template>
   <nav>
-    <router-link to="/">Home</router-link> |
-    <router-link to="/about">About</router-link>
+    <router-link to="/">Info BTC</router-link> |
+    <router-link to="/about">RP to BTC</router-link> |
+    <router-link to="/convert">BTC to RP</router-link>
   </nav>
   <router-view/>
 </template>
